@@ -121,6 +121,8 @@ celerybeat.pid
 
 # Environments
 Scripts/
+share/
+etc/
 .env
 .venv
 env/
